@@ -1,4 +1,4 @@
-module github.com/A-pen-app/tracing
+module github.com/cyoyu/tracing
 
 go 1.20
 
